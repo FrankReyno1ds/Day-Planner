@@ -1,0 +1,40 @@
+.jumbotron{
+    background-color: lightseagreen;
+}
+
+.display-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.lead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.containerGrid{
+    display: flex;
+    justify-content: flex-start;
+    font-weight:bolder ;
+    border: dotted black;
+    height: 100vh;
+}
+
+#col-1 {
+    display: flex;
+    justify-content:flex-start ;
+}
+
+#col-2 {
+    display: flex;
+    justify-content:space-between ;
+}
+
+#col-3 {
+    display: flex;
+    justify-content:flex-end ;
+}
